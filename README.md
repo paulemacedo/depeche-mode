@@ -1,20 +1,20 @@
 # Depeche Mode
 
-Landing page estática inspirada na estética sombria, elegante e atmosférica do Depeche Mode.
+Static landing page inspired by Depeche Mode's dark, elegant, and atmospheric aesthetic.
 
-## Sobre o projeto
+## About the project
 
-Este projeto apresenta uma interface minimalista com alto contraste, tipografia marcante e elementos visuais inspirados na música eletrônica e na atmosfera cinematográfica da banda.
+This project presents a minimalist interface with high contrast, bold typography, and visual elements inspired by electronic music and the band's cinematic atmosphere.
 
-## Tecnologias
+## Technologies
 
 - HTML5
 - CSS3
 - Google Fonts
 
-## Como executar
+## How to run
 
-1. Clone este repositório:
+1. Clone this repository:
 
    ```bash
    git clone https://github.com/paulemacedo/depeche-mode.git
@@ -22,4 +22,4 @@ Este projeto apresenta uma interface minimalista com alto contraste, tipografia 
 
 ## Demo
 
-Acesse a página publicada: [paulemacedo.github.io/depeche-mode](https://paulemacedo.github.io/depeche-mode/).
+Visit the published page: [paulemacedo.github.io/depeche-mode](https://paulemacedo.github.io/depeche-mode/).
