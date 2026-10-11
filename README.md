@@ -22,4 +22,4 @@ This project presents a minimalist interface with high contrast, bold typography
 
 ## Demo
 
-Visit the published page: [paulemacedo.github.io/depeche-mode](https://paulemacedo.github.io/depeche-mode/).
+Visit the published page: [https://depeche-mode.vercel.app/](https://depeche-mode.vercel.app/).
