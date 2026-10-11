@@ -18,3 +18,8 @@ Este projeto apresenta uma interface minimalista com alto contraste, tipografia 
 
    ```bash
    git clone https://github.com/paulemacedo/depeche-mode.git
+   ```
+
+## Demo
+
+Acesse a página publicada: [paulemacedo.github.io/depeche-mode](https://paulemacedo.github.io/depeche-mode/).
